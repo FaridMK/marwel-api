@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marwel-api/static/css/main.7acaea2f.css",
+    "main.js": "/marwel-api/static/js/main.8cb67922.js",
+    "index.html": "/marwel-api/index.html",
+    "main.7acaea2f.css.map": "/marwel-api/static/css/main.7acaea2f.css.map",
+    "main.8cb67922.js.map": "/marwel-api/static/js/main.8cb67922.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.8cb67922.js"
+  ]
+}
