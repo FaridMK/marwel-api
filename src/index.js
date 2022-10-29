@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import MarwelServices from './components/services/API';
+// import MarwelServices from './components/services/API';
 
 import { App } from 'components/App';
 import './index.css';
